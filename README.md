@@ -71,7 +71,7 @@ We have already created all the necessary input folders and files to run all sim
 
 Below is a mapping from the input folders to the figures that they correspond to:
 
-STATIC RANK INPUTS
+### Static Rank Simulations
 
 Figure 2b: Input_HDInnov_Pop-20_Discount-ND-0.01_SD-0.01_Tremble-0.01_NLS-0_SLS-1_SymN-0_SymS-0_CopyProb-0_CopyError-0_ExpProb-0_InnovNoise-0_CoupleFn-Fight_P-0.0-1.0-0.4-0.6_Bon-0.0-0.1-0.2-0.3-0.4-0.5-0.6-0.7-0.8-0.9-1.0
 
@@ -86,14 +86,13 @@ Figure 3d: Input_HDInnov_Pop-20_Discount-ND-0.01_SD-0.01_Tremble-0.01_NLS-1_SLS-
 Figure 3e: Input_HDInnov_Pop-20_Discount-ND-0.01_SD-0.01_Tremble-0.01_NLS-1_SLS-1_SymN-0_SymS-0_CopyProb-0_CopyError-0_ExpProb-0_InnovNoise-0_CoupleFn-Fight_P-0.0-1.0-0.4-0.6_Bon-0.0-0.1-0.2-0.3-0.4-0.5-0.6-0.7-0.8-0.9-1.0
 
 
-## Additional Parameters for Dynamic Rank Model
+### Dynamic Rank Simulations
 
 Figure 5a: Input_HDInnov_Pop-20_Discount-N-0.01_S-0.01_Tremble-0.01_NLS-1_SLS-1_SymN-0_SymS-0_CopyProb-0_CopyError-0_ExpProb-0_InnovNoise-0_CoupleFn-Fight_P-0.0-1.0-0.4-0.6_Bon-0.4
 
 Figure 5b: Input_HDInnov_Pop-20_Discount-N-0.01_S-0.01_Tremble-0.01_NLS-1_SLS-1_SymN-0_SymS-0_CopyProb-0_CopyError-0_ExpProb-0_InnovNoise-0_CoupleFn-Fight_P-0.0-1.0-0.4-0.6_Bon-0.0-0.1-0.2-0.3-0.4-0.5-0.6-0.7-0.8-0.9-1.0
 
-## Combined Inputs
-
+### Combined Simulations
 
 Figure 5c: DYNAMIC RANK Input_HDInnov_Pop-20_Discount-N-0.01_S-0.01_Tremble-0.01_NLS-0-1_SLS-1_SymN-0_SymS-0_CopyProb-0_CopyError-0_ExpProb-0_InnovNoise-0_CoupleFn-Fight_P-0.0-1.0-0.4-0.6_Bon-0.6
 + STATIC RANK Input_HDInnov_Pop-20_Discount-ND-0.01_SD-0.01_Tremble-0.01_NLS-0-1_SLS-1_SymN-0_SymS-0_CopyProb-0_CopyError-0_ExpProb-0_InnovNoise-0_CoupleFn-Fight_P-0.0-1.0-0.4-0.6_Bon-0.6
@@ -101,7 +100,7 @@ Figure 5c: DYNAMIC RANK Input_HDInnov_Pop-20_Discount-N-0.01_S-0.01_Tremble-0.01
 Figure 5d uses same data as Figure 5c
 
 
-## Simulation Output Data
+## Working with Simulation Output Data
 
 There are multiple simulation output files that contain all the data necessary to replicate the results.  The list of files and a short description can be seen below.
 
